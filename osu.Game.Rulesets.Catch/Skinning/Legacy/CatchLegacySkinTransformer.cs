@@ -92,6 +92,7 @@ namespace osu.Game.Rulesets.Catch.Skinning.Legacy
                             {
                                 Children = new Drawable[]
                                 {
+                                    new LegacyComboBurst(),
                                     new LegacyKeyCounterDisplay(),
                                     new SpectatorList(),
                                     new DrawableGameplayLeaderboard(),

@@ -88,6 +88,8 @@ namespace osu.Game.Tests.Skins
             // Covers results screen components
             "Archives/modified-argon-20261109.osk",
             "Archives/modified-classic-20261028.osk",
+            // Covers legacy combo burst
+            "Archives/modified-classic-20261111.osk",
         };
 
         /// <summary>

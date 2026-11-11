@@ -118,6 +118,7 @@ namespace osu.Game.Rulesets.Osu.Skinning.Legacy
                             {
                                 Children = new Drawable[]
                                 {
+                                    new LegacyComboBurst(),
                                     new LegacyDefaultComboCounter(),
                                     new LegacyKeyCounterDisplay(),
                                     new SpectatorList(),
